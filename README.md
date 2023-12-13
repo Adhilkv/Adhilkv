@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adhilkv
-- 👀 I’m interested in full stack web development and game development 
-- 🌱 I’m currently learning full stack development
+- 👀 I’m interested in full stack web development 
+- 🌱 I’m currently working as a Software Developer (Spring boot & Angular) 
 - 📫 How to reach me ... @im_dhilu at instagram
 
 <!---
